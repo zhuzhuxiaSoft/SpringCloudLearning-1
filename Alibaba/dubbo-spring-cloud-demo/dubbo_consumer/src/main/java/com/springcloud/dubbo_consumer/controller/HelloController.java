@@ -2,6 +2,8 @@ package com.springcloud.dubbo_consumer.controller;
 
 import com.springcloud.dubbo_api.service.HelloService;
 import org.apache.dubbo.config.annotation.Reference;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -14,12 +16,17 @@ import org.springframework.web.bind.annotation.RestController;
  * Description:
  */
 @RestController
+@RefreshScope
 public class HelloController {
+
+    @Value("${name:zzx}")
+    private String name;
+
     @Reference
     private HelloService helloService;
 
     @GetMapping("/hello")
     public String hello() {
-        return helloService.hello("Dubbo!");
+        return helloService.hello(name);
     }
 }
