@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumers (1)" />
+        <module name="zuul-simple (2)" />
+        <module name="eureka" />
+        <module name="producer (6)" />
+        <module name="eureka-server" />
+        <module name="dubbo_api (1)" />
+        <module name="gateway (1)" />
+        <module name="zuul-server" />
+        <module name="dubbo_api" />
+        <module name="simple-sentinel" />
+        <module name="Eureka (1)" />
+        <module name="gateway_server" />
+        <module name="producer (2)" />
+        <module name="hystrix-dashboard" />
+        <module name="nacos-gateway" />
+        <module name="spring_cloud_consumer" />
+        <module name="Eureka (9)" />
+        <module name="sentinel-demo-basic" />
+        <module name="web_mvc" />
+        <module name="Eureka (5)" />
+        <module name="consumers (2)" />
+        <module name="turbine" />
+        <module name="gateway-nacos-config" />
+        <module name="producer (7)" />
+        <module name="zuul" />
+        <module name="provider-server" />
+        <module name="dubbo_consumer (1)" />
+        <module name="producer (3)" />
+        <module name="Eureka (8)" />
+        <module name="producer" />
+        <module name="Eureka (4)" />
+        <module name="consumers (3)" />
+        <module name="config-client" />
+        <module name="zuul-simple" />
+        <module name="producer (4)" />
+        <module name="config-client (1)" />
+        <module name="producer (8)" />
+        <module name="web_flux" />
+        <module name="consumer-server" />
+        <module name="common" />
+        <module name="nacos-config" />
+        <module name="provider" />
+        <module name="eureka_server" />
+        <module name="storage-server" />
+        <module name="Eureka (7)" />
+        <module name="consumers" />
+        <module name="config-server (1)" />
+        <module name="Eureka (3)" />
+        <module name="consumer" />
+        <module name="dubbo_provider" />
+        <module name="zuul-simple (1)" />
+        <module name="config-client (2)" />
+        <module name="producer (5)" />
+        <module name="order-server" />
+        <module name="chapter16" />
+        <module name="chapter17" />
+        <module name="producer (9)" />
+        <module name="dubbo_provider_web" />
+        <module name="dubbo_consumer" />
+        <module name="pay-server" />
+        <module name="config-server" />
+        <module name="Eureka (2)" />
+        <module name="producer (1)" />
+        <module name="gateway (2)" />
+        <module name="provider_server" />
+        <module name="nacos-cosumers" />
+        <module name="Eureka" />
+        <module name="Eureka (6)" />
+        <module name="gateway" />
+        <module name="config-server (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter15" target="1.5" />
+      <module name="chapter16" target="1.5" />
+      <module name="chapter17" target="1.5" />
+      <module name="chapter18" target="1.5" />
+      <module name="chapter19" target="1.5" />
+      <module name="common" target="1.5" />
+      <module name="config-client" target="1.5" />
+      <module name="config-client (1)" target="1.5" />
+      <module name="config-client (2)" target="1.5" />
+      <module name="config-server" target="1.5" />
+      <module name="config-server (1)" target="1.5" />
+      <module name="config-server (2)" target="1.5" />
+      <module name="consumer" target="1.5" />
+      <module name="consumer-server" target="1.5" />
+      <module name="consumers" target="1.5" />
+      <module name="consumers (1)" target="1.5" />
+      <module name="consumers (2)" target="1.5" />
+      <module name="consumers (3)" target="1.5" />
+      <module name="dubbo-spring-cloud-demo" target="1.5" />
+      <module name="dubbo-spring-cloud-http" target="1.5" />
+      <module name="dubbo_api" target="1.5" />
+      <module name="dubbo_api (1)" target="1.5" />
+      <module name="dubbo_consumer" target="1.5" />
+      <module name="dubbo_consumer (1)" target="1.5" />
+      <module name="dubbo_provider" target="1.5" />
+      <module name="dubbo_provider_web" target="1.5" />
+      <module name="eureka" target="1.5" />
+      <module name="Eureka" target="1.5" />
+      <module name="Eureka (1)" target="1.5" />
+      <module name="Eureka (2)" target="1.5" />
+      <module name="Eureka (3)" target="1.5" />
+      <module name="Eureka (4)" target="1.5" />
+      <module name="Eureka (5)" target="1.5" />
+      <module name="Eureka (6)" target="1.5" />
+      <module name="Eureka (7)" target="1.5" />
+      <module name="Eureka (8)" target="1.5" />
+      <module name="Eureka (9)" target="1.5" />
+      <module name="eureka-server" target="1.5" />
+      <module name="eureka_server" target="1.5" />
+      <module name="gateway" target="1.5" />
+      <module name="gateway (1)" target="1.5" />
+      <module name="gateway (2)" target="1.5" />
+      <module name="gateway-nacos-config" target="1.5" />
+      <module name="gateway_server" target="1.5" />
+      <module name="hystrix-dashboard" target="1.5" />
+      <module name="nacos-config" target="1.5" />
+      <module name="nacos-cosumers" target="1.5" />
+      <module name="nacos-gateway" target="1.5" />
+      <module name="order-server" target="1.5" />
+      <module name="pay-server" target="1.5" />
+      <module name="producer" target="1.5" />
+      <module name="producer (1)" target="1.5" />
+      <module name="producer (2)" target="1.5" />
+      <module name="producer (3)" target="1.5" />
+      <module name="producer (4)" target="1.5" />
+      <module name="producer (5)" target="1.5" />
+      <module name="producer (6)" target="1.5" />
+      <module name="producer (7)" target="1.5" />
+      <module name="producer (8)" target="1.5" />
+      <module name="producer (9)" target="1.5" />
+      <module name="provider" target="1.5" />
+      <module name="provider-server" target="1.5" />
+      <module name="provider_server" target="1.5" />
+      <module name="seata-nacos-jpa" target="1.5" />
+      <module name="sentinel-demo-basic" target="1.5" />
+      <module name="sentinel-springcloud" target="1.5" />
+      <module name="sentinel-springcloud-high" target="1.5" />
+      <module name="simple-sentinel" target="1.5" />
+      <module name="spring_cloud_consumer" target="1.5" />
+      <module name="storage-server" target="1.5" />
+      <module name="turbine" target="1.5" />
+      <module name="web_flux" target="1.5" />
+      <module name="web_mvc" target="1.5" />
+      <module name="zuul" target="1.5" />
+      <module name="zuul-server" target="1.5" />
+      <module name="zuul-simple" target="1.5" />
+      <module name="zuul-simple (1)" target="1.5" />
+      <module name="zuul-simple (2)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
