@@ -3,84 +3,151 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter2/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/chapter2/Eureka/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/Eureka/Eureka (1).iml" filepath="$PROJECT_DIR$/chapter10/Eureka/Eureka (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/Eureka/Eureka (1).iml" filepath="$PROJECT_DIR$/chapter3/Eureka/Eureka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/Eureka/Eureka (2).iml" filepath="$PROJECT_DIR$/chapter11/Eureka/Eureka (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/Eureka/Eureka (2).iml" filepath="$PROJECT_DIR$/chapter4/Eureka/Eureka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/Eureka/Eureka (3).iml" filepath="$PROJECT_DIR$/chapter13/Eureka/Eureka (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter5/Eureka/Eureka (3).iml" filepath="$PROJECT_DIR$/chapter5/Eureka/Eureka (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/Eureka/Eureka (4).iml" filepath="$PROJECT_DIR$/chapter3/Eureka/Eureka (4).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter7/Eureka/Eureka (4).iml" filepath="$PROJECT_DIR$/chapter7/Eureka/Eureka (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/Eureka/Eureka (5).iml" filepath="$PROJECT_DIR$/chapter4/Eureka/Eureka (5).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter8/Eureka/Eureka (5).iml" filepath="$PROJECT_DIR$/chapter8/Eureka/Eureka (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/Eureka/Eureka (6).iml" filepath="$PROJECT_DIR$/chapter5/Eureka/Eureka (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter9/Eureka/Eureka (6).iml" filepath="$PROJECT_DIR$/chapter9/Eureka/Eureka (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/Eureka/Eureka (7).iml" filepath="$PROJECT_DIR$/chapter7/Eureka/Eureka (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10/Eureka/Eureka (7).iml" filepath="$PROJECT_DIR$/chapter10/Eureka/Eureka (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/Eureka/Eureka (8).iml" filepath="$PROJECT_DIR$/chapter8/Eureka/Eureka (8).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter11/Eureka/Eureka (8).iml" filepath="$PROJECT_DIR$/chapter11/Eureka/Eureka (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/Eureka/Eureka (9).iml" filepath="$PROJECT_DIR$/chapter9/Eureka/Eureka (9).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter13/Eureka/Eureka (9).iml" filepath="$PROJECT_DIR$/chapter13/Eureka/Eureka (9).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudLearning-1.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudLearning-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" group="chapter15 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/chapter16/chapter16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/chapter16/chapter16.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter17/chapter17.iml" filepath="$PROJECT_DIR$/chapter17/chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17/chapter17.iml" filepath="$PROJECT_DIR$/chapter17/chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/chapter18.iml" filepath="$PROJECT_DIR$/chapter18/chapter18.iml" group="chapter18 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter18/chapter18.iml" filepath="$PROJECT_DIR$/chapter18/chapter18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter19/chapter19.iml" filepath="$PROJECT_DIR$/chapter19/chapter19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/chapter19.iml" filepath="$PROJECT_DIR$/chapter19/chapter19.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/common/common.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/common/common.iml" group="seata-nacos-jpa and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/common/common.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter6/config-client/config-client.iml" filepath="$PROJECT_DIR$/chapter6/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/config-client/config-client (1).iml" filepath="$PROJECT_DIR$/chapter6/config-client/config-client (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter7/config-client/config-client (1).iml" filepath="$PROJECT_DIR$/chapter7/config-client/config-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/config-client/config-client (2).iml" filepath="$PROJECT_DIR$/chapter7/config-client/config-client (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter8/config-client/config-client (2).iml" filepath="$PROJECT_DIR$/chapter8/config-client/config-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/config-client/config-client (3).iml" filepath="$PROJECT_DIR$/chapter8/config-client/config-client (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter6/config-server/config-server.iml" filepath="$PROJECT_DIR$/chapter6/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/chapter6/config-server/config-server (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter7/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/chapter7/config-server/config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/config-server/config-server (2).iml" filepath="$PROJECT_DIR$/chapter7/config-server/config-server (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter8/config-server/config-server (2).iml" filepath="$PROJECT_DIR$/chapter8/config-server/config-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/config-server/config-server (3).iml" filepath="$PROJECT_DIR$/chapter8/config-server/config-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/consumer/consumer.iml" filepath="$PROJECT_DIR$/chapter15/consumer/consumer.iml" group="chapter15 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/consumer/consumer.iml" filepath="$PROJECT_DIR$/chapter15/consumer/consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter19/consumer-server/consumer-server.iml" filepath="$PROJECT_DIR$/chapter19/consumer-server/consumer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/consumer-server/consumer-server.iml" filepath="$PROJECT_DIR$/chapter19/consumer-server/consumer-server.iml" group="chapter19 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/consumers/consumers.iml" filepath="$PROJECT_DIR$/chapter3/consumers/consumers.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/consumers/consumers (1).iml" filepath="$PROJECT_DIR$/chapter4/consumers/consumers (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/consumers/consumers (1).iml" filepath="$PROJECT_DIR$/chapter4/consumers/consumers (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/consumers-node01/consumers (2).iml" filepath="$PROJECT_DIR$/chapter5/consumers-node01/consumers (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter5/consumers-node01/consumers (2).iml" filepath="$PROJECT_DIR$/chapter5/consumers-node01/consumers (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter5/consumers-node02/consumers (3).iml" filepath="$PROJECT_DIR$/chapter5/consumers-node02/consumers (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/consumers-node02/consumers (3).iml" filepath="$PROJECT_DIR$/chapter5/consumers-node02/consumers (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo-spring-cloud-demo.iml" group="dubbo-spring-cloud-demo and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo-spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo-spring-cloud-http.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo-spring-cloud-http.iml" group="dubbo-spring-cloud-http and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo-spring-cloud-http.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo-spring-cloud-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_api/dubbo_api.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_api/dubbo_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_api/dubbo_api (1).iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_api/dubbo_api (1).iml" group="dubbo-spring-cloud-demo and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_api/dubbo_api (1).iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_api/dubbo_api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_api/dubbo_api (2).iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_api/dubbo_api (2).iml" group="dubbo-spring-cloud-http and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_consumer/dubbo_consumer.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_consumer/dubbo_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_consumer/dubbo_consumer (1).iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_consumer/dubbo_consumer (1).iml" group="dubbo-spring-cloud-demo and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_consumer/dubbo_consumer (1).iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_consumer/dubbo_consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_consumer/dubbo_consumer (2).iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_consumer/dubbo_consumer (2).iml" group="dubbo-spring-cloud-http and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_provider/dubbo_provider.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_provider/dubbo_provider.iml" group="dubbo-spring-cloud-demo and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_provider/dubbo_provider.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_provider/dubbo_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_provider_web/dubbo_provider_web.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_provider_web/dubbo_provider_web.iml" group="dubbo-spring-cloud-http and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_provider_web/dubbo_provider_web.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_provider_web/dubbo_provider_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/eureka/eureka.iml" filepath="$PROJECT_DIR$/chapter15/eureka/eureka.iml" group="chapter15 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/eureka/eureka.iml" filepath="$PROJECT_DIR$/chapter15/eureka/eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter19/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter19/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter19/eureka-server/eureka-server.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/chapter18/eureka_server/eureka_server.iml" group="chapter18 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter18/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/chapter18/eureka_server/eureka_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter12/gateway/gateway.iml" filepath="$PROJECT_DIR$/chapter12/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/gateway/gateway (1).iml" filepath="$PROJECT_DIR$/chapter12/gateway/gateway (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter13/gateway/gateway (1).iml" filepath="$PROJECT_DIR$/chapter13/gateway/gateway (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/gateway/gateway (2).iml" filepath="$PROJECT_DIR$/chapter13/gateway/gateway (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter14/gateway/gateway (2).iml" filepath="$PROJECT_DIR$/chapter14/gateway/gateway (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/gateway/gateway (3).iml" filepath="$PROJECT_DIR$/chapter14/gateway/gateway (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/gateway-nacos-config/gateway-nacos-config.iml" filepath="$PROJECT_DIR$/Alibaba/gateway-nacos-config/gateway-nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/gateway-nacos-config/gateway-nacos-config.iml" filepath="$PROJECT_DIR$/Alibaba/gateway-nacos-config/gateway-nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/gateway_server/gateway_server.iml" filepath="$PROJECT_DIR$/chapter18/gateway_server/gateway_server.iml" group="chapter18 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter18/gateway_server/gateway_server.iml" filepath="$PROJECT_DIR$/chapter18/gateway_server/gateway_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/chapter5/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter5/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/chapter5/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-config/nacos-config.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-config/nacos-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-cosumers/nacos-cosumers.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-cosumers/nacos-cosumers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-cosumers/nacos-cosumers.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-cosumers/nacos-cosumers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-gateway/nacos-gateway.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-gateway/nacos-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-gateway/nacos-gateway.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-gateway/nacos-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/order-server/order-server.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/order-server/order-server.iml" group="seata-nacos-jpa and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/order-server/order-server.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/order-server/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pay-server/pay-server.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pay-server/pay-server.iml" group="seata-nacos-jpa and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pay-server/pay-server.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pay-server/pay-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-producer/producer.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-producer/producer (1).iml" filepath="$PROJECT_DIR$/Alibaba/nacos-producer/producer (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/producer/producer (1).iml" filepath="$PROJECT_DIR$/chapter3/producer/producer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/producer/producer (10).iml" filepath="$PROJECT_DIR$/chapter9/producer/producer (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/producer/producer (2).iml" filepath="$PROJECT_DIR$/chapter10/producer/producer (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/producer2/producer (2).iml" filepath="$PROJECT_DIR$/chapter3/producer2/producer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/producer/producer (3).iml" filepath="$PROJECT_DIR$/chapter11/producer/producer (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/producer/producer (3).iml" filepath="$PROJECT_DIR$/chapter4/producer/producer (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/producer/producer (4).iml" filepath="$PROJECT_DIR$/chapter13/producer/producer (4).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter5/producer/producer (4).iml" filepath="$PROJECT_DIR$/chapter5/producer/producer (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/producer1/producer (5).iml" filepath="$PROJECT_DIR$/chapter13/producer1/producer (5).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter9/producer/producer (5).iml" filepath="$PROJECT_DIR$/chapter9/producer/producer (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/producer/producer (6).iml" filepath="$PROJECT_DIR$/chapter3/producer/producer (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10/producer/producer (6).iml" filepath="$PROJECT_DIR$/chapter10/producer/producer (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/producer2/producer (7).iml" filepath="$PROJECT_DIR$/chapter3/producer2/producer (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter11/producer/producer (7).iml" filepath="$PROJECT_DIR$/chapter11/producer/producer (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/producer/producer (8).iml" filepath="$PROJECT_DIR$/chapter4/producer/producer (8).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter13/producer/producer (8).iml" filepath="$PROJECT_DIR$/chapter13/producer/producer (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/producer/producer (9).iml" filepath="$PROJECT_DIR$/chapter5/producer/producer (9).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter13/producer1/producer (9).iml" filepath="$PROJECT_DIR$/chapter13/producer1/producer (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/provider/provider.iml" filepath="$PROJECT_DIR$/chapter15/provider/provider.iml" group="chapter15 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/provider/provider.iml" filepath="$PROJECT_DIR$/chapter15/provider/provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter19/provider-server/provider-server.iml" filepath="$PROJECT_DIR$/chapter19/provider-server/provider-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/provider-server/provider-server.iml" filepath="$PROJECT_DIR$/chapter19/provider-server/provider-server.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/provider_server/provider_server.iml" filepath="$PROJECT_DIR$/chapter18/provider_server/provider_server.iml" group="chapter18 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter18/provider_server/provider_server.iml" filepath="$PROJECT_DIR$/chapter18/provider_server/provider_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/seata-nacos-jpa.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/seata-nacos-jpa.iml" group="seata-nacos-jpa and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/seata-nacos-jpa.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/seata-nacos-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-demo/sentinel-demo-basic/sentinel-demo-basic.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-demo/sentinel-demo-basic/sentinel-demo-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/sentinel-springcloud.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/sentinel-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-demo/sentinel-demo-basic/sentinel-demo-basic.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-demo/sentinel-demo-basic/sentinel-demo-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/sentinel-springcloud.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/sentinel-springcloud.iml" group="sentinel-springcloud and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/sentinel-springcloud-high.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/sentinel-springcloud-high.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/sentinel-springcloud-high.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/sentinel-springcloud-high.iml" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/simple-sentinel/simple-sentinel.iml" filepath="$PROJECT_DIR$/Alibaba/simple-sentinel/simple-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/simple-sentinel/simple-sentinel.iml" filepath="$PROJECT_DIR$/Alibaba/simple-sentinel/simple-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/spring_cloud_consumer/spring_cloud_consumer.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/spring_cloud_consumer/spring_cloud_consumer.iml" group="dubbo-spring-cloud-http and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/spring_cloud_consumer/spring_cloud_consumer.iml" filepath="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/spring_cloud_consumer/spring_cloud_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/storage-server/storage-server.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/storage-server/storage-server.iml" group="seata-nacos-jpa and modules" />
       <module fileurl="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/storage-server/storage-server.iml" filepath="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/storage-server/storage-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter5/turbine/turbine.iml" filepath="$PROJECT_DIR$/chapter5/turbine/turbine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/web_flux.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/web_flux.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/web_mvc.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/web_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/turbine/turbine.iml" filepath="$PROJECT_DIR$/chapter5/turbine/turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/web_flux.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/web_flux.iml" group="sentinel-springcloud and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/web_mvc.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/web_mvc.iml" group="sentinel-springcloud and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/zuul/zuul.iml" filepath="$PROJECT_DIR$/chapter15/zuul/zuul.iml" group="chapter15 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/zuul/zuul.iml" filepath="$PROJECT_DIR$/chapter15/zuul/zuul.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter19/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/chapter19/zuul-server/zuul-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/chapter19/zuul-server/zuul-server.iml" group="chapter19 and modules" />
       <module fileurl="file://$PROJECT_DIR$/chapter9/zuul-simple/zuul-simple.iml" filepath="$PROJECT_DIR$/chapter9/zuul-simple/zuul-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10/zuul-simple/zuul-simple (1).iml" filepath="$PROJECT_DIR$/chapter10/zuul-simple/zuul-simple (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/zuul-simple/zuul-simple (1).iml" filepath="$PROJECT_DIR$/chapter10/zuul-simple/zuul-simple (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter11/zuul-simple/zuul-simple (2).iml" filepath="$PROJECT_DIR$/chapter11/zuul-simple/zuul-simple (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/zuul-simple/zuul-simple (2).iml" filepath="$PROJECT_DIR$/chapter11/zuul-simple/zuul-simple (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/zuul-simple/zuul-simple (3).iml" filepath="$PROJECT_DIR$/chapter9/zuul-simple/zuul-simple (3).iml" />
     </modules>
   </component>
 </project>
