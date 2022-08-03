@@ -4,6 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter2/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/chapter2/Eureka/Eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudLearning-1.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudLearning-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/chapter19.iml" filepath="$PROJECT_DIR$/chapter19/chapter19.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/consumer-server/consumer-server.iml" filepath="$PROJECT_DIR$/chapter19/consumer-server/consumer-server.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/consumers/consumers.iml" filepath="$PROJECT_DIR$/chapter3/consumers/consumers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter19/eureka-server/eureka-server.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/gateway/gateway.iml" filepath="$PROJECT_DIR$/chapter14/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/nacos-config/nacos-config.iml" filepath="$PROJECT_DIR$/Alibaba/nacos-config/nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/provider-server/provider-server.iml" filepath="$PROJECT_DIR$/chapter19/provider-server/provider-server.iml" group="chapter19 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/sentinel-springcloud.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/sentinel-springcloud.iml" group="sentinel-springcloud and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/web_flux.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/web_flux.iml" group="sentinel-springcloud and modules" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/web_mvc.iml" filepath="$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/web_mvc.iml" group="sentinel-springcloud and modules" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/chapter19/zuul-server/zuul-server.iml" group="chapter19 and modules" />
     </modules>
   </component>
 </project>
