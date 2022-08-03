@@ -1,19 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="JavaScriptSettings">
-    <option name="languageLevel" value="ES6" />
-  </component>
+
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/chapter2/Eureka/pom.xml" />
         <option value="$PROJECT_DIR$/Alibaba/nacos-config/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/nacos-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/sentinel-demo/sentinel-demo-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/nacos-cosumers/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/nacos-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/simple-sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/gateway-nacos-config/pom.xml" />
         <option value="$PROJECT_DIR$/Alibaba/sentinel-springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/producer/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/consumers/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/producer2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/consumers/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/consumers-node01/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/consumers-node02/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/zuul-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10/zuul-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/zuul-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/producer1/pom.xml" />
         <option value="$PROJECT_DIR$/chapter14/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter16/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter17/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter18/pom.xml" />
         <option value="$PROJECT_DIR$/chapter19/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8.0_102" project-jdk-type="JavaSDK" />
+
 </project>

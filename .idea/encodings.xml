@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/Alibaba/nacos-config" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter14/gateway" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter19" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter19/consumer-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter19/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter19/provider-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter19/zuul-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter2/Eureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter3/consumers" charset="UTF-8" />
-  </component>
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
 </project>

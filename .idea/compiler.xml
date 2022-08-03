@@ -3,49 +3,6 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="consumer-server" />
-        <module name="consumers" />
-        <module name="Eureka" />
-        <module name="eureka-server" />
-        <module name="gateway" />
-        <module name="nacos-config" />
-        <module name="provider-server" />
-        <module name="web_flux" />
-        <module name="web_mvc" />
-        <module name="zuul-server" />
-      </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="chapter19" target="1.8" />
-      <module name="consumer-server" target="1.8" />
-      <module name="consumers" target="1.8" />
-      <module name="Eureka" target="1.8" />
-      <module name="eureka-server" target="1.8" />
-      <module name="gateway" target="1.8" />
-      <module name="nacos-config" target="1.8" />
-      <module name="provider-server" target="1.8" />
-      <module name="sentinel-springcloud" target="1.8" />
-      <module name="web_flux" target="1.8" />
-      <module name="web_mvc" target="1.8" />
-      <module name="zuul-server" target="1.8" />
-    </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Eureka" options="-parameters" />
-      <module name="consumer-server" options="-parameters" />
-      <module name="consumers" options="-parameters" />
-      <module name="eureka-server" options="-parameters" />
-      <module name="gateway" options="-parameters" />
-      <module name="nacos-config" options="-parameters" />
-      <module name="provider-server" options="-parameters" />
-      <module name="web_flux" options="-parameters" />
-      <module name="web_mvc" options="-parameters" />
-      <module name="zuul-server" options="-parameters" />
-    </option>
   </component>
 </project>
