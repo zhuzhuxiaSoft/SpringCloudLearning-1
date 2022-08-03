@@ -17,6 +17,12 @@ public class SpringCloudConsumerApplication {
         SpringApplication.run(SpringCloudConsumerApplication.class, args);
     }
 
+    /**
+     * 此处若配置LoadBalanced注解，则RestTemplate使用时需要指定服务名称，否则报错
+     * restTemplate.getForObject("http://localhost:8000/findAll/", Collection.class);
+     * java.lang.IllegalStateException: No instances available for localhost
+     * @return
+     */
     @LoadBalanced
     @Bean
     public RestTemplate restTemplate() {

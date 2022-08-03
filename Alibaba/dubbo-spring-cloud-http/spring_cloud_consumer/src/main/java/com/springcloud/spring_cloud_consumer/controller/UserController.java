@@ -54,4 +54,9 @@ public class UserController {
     public Collection<UserModel> findAllByRestTemplate() {
         return restTemplate.getForObject("http://dubbo-spring-cloud-provider-web/findAll/", Collection.class);
     }
+
+    @GetMapping("/findAllByRestTemplate2")
+    public Collection<UserModel> findAllByRestTemplate2() {
+        return restTemplate.getForObject("http://localhost:8000/findAll/", Collection.class);
+    }
 }

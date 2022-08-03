@@ -1,43 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/dubbo_provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_provider_web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/dubbo_provider_web/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/spring_cloud_consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/spring_cloud_consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/dubbo-spring-cloud-http/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/gateway-nacos-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/gateway-nacos-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/nacos-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/nacos-cosumers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/nacos-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/nacos-producer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/order-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pay-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/pay-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/storage-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/seata-nacos-jpa/storage-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/sentinel-demo/sentinel-demo-basic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud-high/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_flux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Alibaba/sentinel-springcloud/web_mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Alibaba/simple-sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10/zuul-simple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11/zuul-simple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13/producer1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter14/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter15/consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter15/eureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter15/eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter15/provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter15/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter15/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter15/zuul/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter16/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter16/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter17/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter18/eureka_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter18/eureka_server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter18/gateway_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter18/gateway_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter18/provider_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter18/provider_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter18/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter18/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter19/consumer-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter19/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter19/provider-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter19/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter19/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter19/zuul-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter19/zuul-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/consumers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/producer2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/consumers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/consumers-node01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/consumers-node02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/turbine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6/config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7/config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8/config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9/zuul-simple/src/main/java" charset="UTF-8" />
   </component>
 </project>

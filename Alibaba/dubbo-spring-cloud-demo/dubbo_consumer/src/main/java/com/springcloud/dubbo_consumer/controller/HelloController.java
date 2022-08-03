@@ -19,6 +19,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class HelloController {
 
+    /**
+     * 从配置中心获取，例如nacos dubbo-spring-cloud-consumer.properties
+     */
     @Value("${name:zzx}")
     private String name;
 
